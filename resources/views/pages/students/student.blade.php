@@ -1,5 +1,5 @@
 @extends('layout.app')
 @section('content')
-<h1>Home page</h1>
-<h4>helloooooo</h4>
+<h1>Our team mambers are:</h1>
 @endsection
+

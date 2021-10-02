@@ -29,6 +29,12 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="{{route('contact')}}">Contact Us</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="{{route('student.create')}}">Add student</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="{{route('student.list')}}">See student list</a>
+        </li>
        
        
       </ul>
